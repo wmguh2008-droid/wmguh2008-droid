@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Gustavo Santos</h1>
 
-<!--
-**wmguh2008-droid/wmguh2008-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Tecnologia da Informação · Focado em Cloud, Python e Análise de Dados
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gustavo's GitHub 3D Profile" />
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+- Estudante de Tecnologia da Informação com foco em **serviços em nuvem**, **Python**, **Power BI** e **análise de d**
