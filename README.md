@@ -7,11 +7,4 @@
 ---
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gustavo's GitHub 3D Profile" />
-</div>
-
----
-
-## 🚀 Sobre mim
-
-- Estudante de Tecnologia da Informação com foco em **serviços em nuvem**, **Python**, **Power BI** e **análise de d**
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="Gustavo's Gi
